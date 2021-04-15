@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.cs622.IOrequest.creatFile(c)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

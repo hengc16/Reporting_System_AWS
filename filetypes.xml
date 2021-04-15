@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="HW_2_PART_3" type="JAVA" />
+      <mapping pattern="p1" type="JAVA" />
+      <mapping pattern="msgHistory" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
